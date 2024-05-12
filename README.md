@@ -1,2 +1,2 @@
-# Project-initiation
+# Finance project-initiation
 Personal finance app 
